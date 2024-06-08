@@ -1,0 +1,152 @@
+
+
+#backButton {
+  display: block;
+  padding: 10px 20px;
+  background-color: #024554;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+#backButton:hover {
+  background-color: #A8B545;
+}
+
+#blogContainer {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 20px;
+}
+
+.card {
+  border: 2px solid #000;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  margin-top: 0;
+  border-bottom: 1px black solid;
+}
+
+.card p {
+  margin: 10px 0;
+}
+
+
+footer{
+  display: block;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+a {
+  color:#024554;
+  text-decoration: none;
+  font-weight: 700;
+  float: left;
+  margin-left: 20px;
+  margin-bottom: 100px;
+}
+
+a:hover {
+  color: #A8B545;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+#backButton:hover {
+  background-color: #A8B545;
+}
+
+#blogContainer {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 20px;
+}
+
+.card {
+  border: 2px solid #000;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  margin-top: 0;
+  border-bottom: 1px black solid;
+}
+
+.card p {
+  margin: 10px 0;
+}
+
+a {
+  color:#024554;
+  text-decoration: none;
+  font-weight: 600;
+  float: left;
+  margin-left: 20px;
+}
+
+a:hover {
+  color: #A8B545;
+}

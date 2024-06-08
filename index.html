@@ -1,1 +1,68 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/058c8d5313.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/form.css" />
+    <title>My Personal Blog</title>
+  </head>
+  <body>
+    <header>
+      <h1>My Personal Blog</h1>
+      <div class="toggle">
+        <input type="checkbox" class="checkbox" id="checkbox" />
+        <label for="checkbox" class="checkbox-label">
+          <i class="fas fa-moon"></i>
+          <i class="fas fa-sun"></i>
+          <span class="ball"></span>
+        </label>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+        <div class="child1">
+          <img src="assets/images/flower.png" width="100%" />
+        </div>
+        <div class="child2">
+          <div>
+            <form>
+              <ul>
+                <li><h2>What's on your mind?</h2></li>
+                <li>
+                  <label for="userName">Username:</label>
+                </li>
+                <li>
+                  <input type="text" id="userName" />
+                </li>
+                <li>
+                  <label for="title">Blog Title:</label>
+                </li>
+                <li>
+                  <input type="text" id="title" />
+                </li>
+                <li>
+                  <label for="content">Content:</label>
+                </li>
+                <li>
+                  <textarea id="content" rows="20" cols="50"></textarea>
+                </li>
+                <li>
+                  <button type="submit" id="save">SAVE</button>
+                </li>
+              </ul>
+            </form>
+            <div class="message"></div>
+            <!-- Added this element for error message -->
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="assets/js/logic.js"></script>
+    <script src="assets/js/form.js"></script>
+  </body>
+</html>
