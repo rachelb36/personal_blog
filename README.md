@@ -1,26 +1,23 @@
 # personal_blog
-Challenge 4:  Web APIs Challenge: Personal Blog
-# Employee Payroll Tracker Starter Code
 
-# JavaScript Challenge: Employee Payroll Tracker
+# Challenge 4:  Web APIs Challenge: Personal Blog
 
 ## Description
 
-- BOOTCAMP MODULE 3 CHALLENGE 
-- Created an Employee Payroll Tracker application
-- Used HTML and CSS
-- Modified Images with Adobe Photoshop
+- Personal blog website 
+- user has the option of choosing light or dark mode
+- all fields are checked with JavaScript to ensure all fields are filled out
+- user completes all blog form input text boxes and text area
+- When the user clicks "save", all input values are saved to the blogPost array in localStorage, which may contain previous object array values
+- Browser calls a second web page, blog.html, which outputs the current blog post and any previous ones that have been saved to localStorage
+- Functionality to toggle between light and dark mode is also on this page
+- Link under blog posts provided, which takes the user to my portfolio
 
 ### Tasks completed
 
-- modified starter code an employee payroll tracker application
-- once the user clicks the "Add employee" button they are presented with three prompt boxes that I added
-- user is able to add multiple employees until they click cancel
-- my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
-- completed the collectEmployees function which adds employees to an array of objects verifies user input boxes are not empty, removed trailing spaces, converts salary to a number
-- collectEmployees function modifies the strings to have the first letter of each name to be capitalized and the remainder to be in lower case
-- created displayAverageSalary function that adds up all of the employees' salaries and divides by the number of employees present in the object array. Statement is written to the console.
-- created getRandomEmployee function, which allows the program to randomly choose one of the employees for a prize drawing.  Statement is written to the console.
+- created index.html, the blogpost homepage with HTML and styled with CSS
+- enabled light/dark toggle switch CSS and HTML to allow user to choose between screens
+- 
 
 
 
@@ -28,7 +25,7 @@ Challenge 4:  Web APIs Challenge: Personal Blog
 
 To run this project, navigate to:
 
-To view project, navigate to https://rmburgos.github.io/employee-payroll-tracker/
+To view project, navigate to [https://rmburgos.github.io/employee-payroll-tracker/](https://rmburgos.github.io/personal_blog/)
 
 
 ## Usage
@@ -48,6 +45,8 @@ To view project, navigate to https://rmburgos.github.io/employee-payroll-tracker
 * HTML
 
 ## Credits
+
+
 
 **This project used starter code provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
 
