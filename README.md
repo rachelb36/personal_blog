@@ -1,5 +1,3 @@
-# personal_blog
-
 # Challenge 4:  Web APIs Challenge: Personal Blog
 
 ## Description
@@ -42,11 +40,7 @@ To view project, navigate to https://rmburgos.github.io/personal_blog/
 
 ## Credits
 
-
-
 **This project used starter code provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
-
-
 
 Tutorial instructions found here
 - <https://github.com/coding-boot-camp/curly-potato>
