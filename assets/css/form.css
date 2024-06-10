@@ -14,6 +14,11 @@ p {
   font-size: 20px;
 }
 
+.form-textbox,
+.form-textarea {
+  font-family: 'Montserrat', sans-serif;
+}
+
 form {
   width: 100%;
   display: flex;
@@ -47,5 +52,5 @@ li {
 }
 
 #save:hover {
-  background-color:darkgoldenrod;
+  background-color: darkgoldenrod;
 }

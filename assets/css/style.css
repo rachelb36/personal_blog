@@ -91,11 +91,11 @@ body.dark {
   background-color: #011f26;
 }
 
-body.dark a  {
+body.dark a {
   color: azure;
 }
 body.dark a:hover {
-  color:#c2c0a6;
+  color: #c2c0a6;
 }
 
 body.dark header {
@@ -116,7 +116,7 @@ body.dark {
 }
 
 body.dark ul {
-  color: #fbf9ef
+  color: #fbf9ef;
 }
 
 body.dark .card h2 {
