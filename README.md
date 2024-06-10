@@ -17,7 +17,6 @@
 
 - created index.html, the blogpost homepage with HTML and styled with CSS
 - enabled light/dark toggle switch CSS and HTML to allow user to choose between screens
-- 
 
 
 
@@ -34,9 +33,6 @@ To view project, navigate to https://rmburgos.github.io/personal_blog/
 <img width="1709" alt="blog1_dark" src="https://github.com/rmburgos/personal_blog/assets/97217944/e08f0be3-4057-4108-8ea4-e83c14075b14">
 <img width="1728" alt="blog2_light" src="https://github.com/rmburgos/personal_blog/assets/97217944/f734ad08-6f8d-4381-b972-86a7f4a543cb">
 <img width="1728" alt="blog2_dark" src="https://github.com/rmburgos/personal_blog/assets/97217944/5b305292-6bdc-4560-9c0f-b2a3fb352b92">
-
-
-
 
 
 ## Built With
