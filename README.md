@@ -25,7 +25,7 @@
 
 To run this project, navigate to:
 
-To view project, navigate to [https://rmburgos.github.io/personal_blog/]
+To view project, navigate to https://rmburgos.github.io/personal_blog/
 
 
 ## Usage
