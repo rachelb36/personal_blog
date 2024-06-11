@@ -10,14 +10,19 @@ h2 {
   text-align: left;
 }
 
+#content {
+  white-space: pre-wrap;
+
+}
+
 p {
   font-size: 20px;
 }
 
-.form-textbox,
-.form-textarea {
-  font-family: 'Montserrat', sans-serif;
-}
+
+input, text, textarea, select { font-family:inherit; }
+
+
 
 form {
   width: 100%;

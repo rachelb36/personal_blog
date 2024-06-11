@@ -33,7 +33,7 @@ saveButton.addEventListener('click', function (event) {
 // Clear the form when the page loads
 window.addEventListener('load', () => {
   userName.value = '';
-  title.value = '';
+  title.value = ''
   content.value = '';
   document.querySelector('.message').textContent = '';
 });
