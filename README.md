@@ -25,11 +25,14 @@ To run this project, navigate to:
 To view project, navigate to https://rmburgos.github.io/personal_blog/
 
 ## Usage
+<img width="1711" alt="blog1_light" src="https://github.com/rmburgos/personal_blog/assets/97217944/89d3051f-b693-4045-9c27-97f5bc05cd69">
+<img width="1710" alt="blog1_dark" src="https://github.com/rmburgos/personal_blog/assets/97217944/4e01ed8d-257d-403b-95c9-32a661d3ceab">
+<img width="1709" alt="blog2_dark" src="https://github.com/rmburgos/personal_blog/assets/97217944/6604e8bb-eb8a-4d75-9d12-d0aeb888b18d">
+<img width="1728" alt="blog2_light" src="https://github.com/rmburgos/personal_blog/assets/97217944/fb5a4e16-1165-4f30-98a2-237c8f2f210d">
 
-<img width="1716" alt="blog1_light" src="https://github.com/rmburgos/personal_blog/assets/97217944/21121d91-28ea-4bb9-87db-43cfc5ae0734">
-<img width="1709" alt="blog1_dark" src="https://github.com/rmburgos/personal_blog/assets/97217944/e08f0be3-4057-4108-8ea4-e83c14075b14">
-<img width="1728" alt="blog2_light" src="https://github.com/rmburgos/personal_blog/assets/97217944/f734ad08-6f8d-4381-b972-86a7f4a543cb">
-<img width="1728" alt="blog2_dark" src="https://github.com/rmburgos/personal_blog/assets/97217944/5b305292-6bdc-4560-9c0f-b2a3fb352b92">
+
+
+
 
 ## Built With
 
@@ -39,11 +42,9 @@ To view project, navigate to https://rmburgos.github.io/personal_blog/
 
 ## Credits
 
-**This project used starter code provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
+**This projectw was accomplished with the help provided by the instructors and TAs of the Rice University Coding Bootcamp, including Mateo Wallace, Mark Alfano, Gerard Mennella**
 
-Tutorial instructions found here
 
-- <https://github.com/coding-boot-camp/curly-potato>
 
 Additional resources include:
 
