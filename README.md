@@ -46,6 +46,9 @@ Tutorial instructions found here
 - <https://github.com/coding-boot-camp/curly-potato>
 
 Additional resources include:
+- Light/Dark Toggle Switch
+  -- https://codepen.io/Umer_Farooq/pen/eYJgKGN
+  -- https://codepen.io/Umer_Farooq
 - <https://www.hostinger.com/tutorials/web-developer-portfolio>
 - <https://www.w3schools.com/howto/howto_css_image_overlay.asp>
 - <https://www.w3schools.com/cssref/css_selectors.php>
@@ -60,5 +63,4 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 
 
 
-Light and Dark Toggle Switch
-https://codepen.io/Umer_Farooq/pen/eYJgKGN
+
