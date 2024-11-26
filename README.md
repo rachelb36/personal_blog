@@ -22,7 +22,7 @@
 
 To run this project, navigate to:
 
-To view project, navigate to https://rmburgos.github.io/personal_blog/
+To view project, navigate to <rachelb36.github.io/personal_blog/>
 
 ## Usage
 <img width="1711" alt="blog1_light" src="https://github.com/rmburgos/personal_blog/assets/97217944/89d3051f-b693-4045-9c27-97f5bc05cd69">
